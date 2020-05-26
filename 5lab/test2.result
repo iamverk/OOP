@@ -1,0 +1,12 @@
+1. Добавить фигуру в список
+2. Удалить фигуру
+3. Вывести фигуру
+4. Вывести все фигуры
+5. Вывести кол-во фигур чья площадь больше чем ...
+1
+0 0 1 1 2 2 3 3
+terminate called after throwing an instance of 'std::logic_error'
+  what():  Wrong coordinates. It's not a rhombus.
+Aborted
+
+
