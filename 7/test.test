@@ -1,0 +1,12 @@
+add
+r
+0 0 0 1 1 1 1 0
+rmv 
+undo
+crt t.txt
+add r 0 0 0 1 1 1 1 0
+prt
+save
+undo
+prt
+
